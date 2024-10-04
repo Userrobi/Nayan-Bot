@@ -8,13 +8,13 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61560842973010",
     ""
   ],
   "OWNER": ["100000959749712"], 
